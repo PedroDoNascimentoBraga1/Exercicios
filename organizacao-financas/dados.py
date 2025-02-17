@@ -18,4 +18,4 @@ def ler(linha):
 
     
 for x in range (101):
-    armazenar(str(x),x)
+    print(ler(x))
